@@ -1,1 +1,2 @@
 add plik2.txt
+Zmiana dokonana 
