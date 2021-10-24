@@ -1,1 +1,2 @@
 Sworzoenie pliku1.txt
+dodanie zmiany 
